@@ -1,0 +1,28 @@
+_repo: Political-Women-Vol.-2_27506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Menzies, Sutherland, active 1840-1883
+    aliases:
+    - Stone, Elizabeth Kathryn
+    - Stone, Elizabeth
+    gutenberg_agent_id: '32525'
+    url: http://www.gutenberg.org/2009/agents/32525
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'JK'
+- !lcsh 'Women in politics -- Biography'
+title: Political Women, Vol. 2
+url: http://www.gutenberg.org/ebooks/27506
